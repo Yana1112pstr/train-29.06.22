@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/train-29.06.22/static/css/main.20bc1ee0.css",
+    "main.js": "/train-29.06.22/static/js/main.9648be0c.js",
+    "index.html": "/train-29.06.22/index.html",
+    "main.20bc1ee0.css.map": "/train-29.06.22/static/css/main.20bc1ee0.css.map",
+    "main.9648be0c.js.map": "/train-29.06.22/static/js/main.9648be0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20bc1ee0.css",
+    "static/js/main.9648be0c.js"
+  ]
+}
