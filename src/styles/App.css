@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+}
+
+.App {
+    width: 500px;
+    outline: 1px solid red;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.counter {
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid turquoise;
+    display: flex;
+    justify-content: center;
+}
+
+.post {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid green;
+}
+
+.post__btns {
+    border: 2px solid yellow;
+    padding: 5px;
+}
