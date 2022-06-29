@@ -11,9 +11,10 @@
 
 .App {
     width: 500px;
-    outline: 1px solid red;
+    outline: 1px solid teal;
     margin-top: 20px;
     padding: 10px;
+    background-color: rgb(191, 236, 236, 0.5);
 }
 
 .counter {
